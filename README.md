@@ -6,4 +6,5 @@ My goal is to demonstrate how I apply Salesforce concepts to real-world business
 
 ---
 <h2> 🛠️ Projects</h2>
-[Car Rental System] - A complete Salesforce-based car rental management system featuring custom apps, flows, dashboards, and automation for customer service and vehicle maintenance.
+
+[**Car Rental System**](https://github.com/Deleon-Anthony/carrentalsystem) - *A complete Salesforce-based car rental management system featuring custom apps, flows, dashboards, and automation for customer service and vehicle maintenance.*
