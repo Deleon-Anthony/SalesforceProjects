@@ -5,3 +5,5 @@ This repository showcases my hands-on experience and learning with Salesforce. I
 My goal is to demonstrate how I apply Salesforce concepts to real-world business problems — such as customer management, service processes, and workflow automation
 
 ---
+<h2> 🛠️ Projects</h2>
+[Car Rental System] - A complete Salesforce-based car rental management system featuring custom apps, flows, dashboards, and automation for customer service and vehicle maintenance.
